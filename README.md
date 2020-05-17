@@ -1,9 +1,6 @@
 ## ECE356 Project
 
-### Created by:  
-(Name, student number, user id)
-- Qiyuan Bao, 20621162, q5bao
-- Steven Siyu Xiong, 20661836, ssxiong
+Qiyuan Bao, Steven Siyu Xiong
 
 ER Diagram:
 https://app.creately.com/diagram/Id97ysOhrTj/view and ER diagrams.zip
