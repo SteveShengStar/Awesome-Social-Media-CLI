@@ -1,6 +1,6 @@
-## Authors
+## README
 
-Qiyuan Bao, Steven Siyu Xiong
+Authours: Steven Siyu Xiong, Qiyuan Bao
 
 ER Diagram:
 https://app.creately.com/diagram/Id97ysOhrTj/view and ER diagrams.zip
