@@ -1,4 +1,4 @@
-## ECE356 Project
+## Authors
 
 Qiyuan Bao, Steven Siyu Xiong
 
